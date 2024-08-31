@@ -1,4 +1,0 @@
-new program
-int main(){
-printf("hello");
-}
